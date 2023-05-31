@@ -3,7 +3,7 @@ This repository contains a file of basic but essential code functions that can b
 
 **Installation**
 All the code was done in google colab, as such to use pyspark the env needed to be configured. All code for configuration has been included under the **Import** section, thus allowing you to confugure google colab for Apache spark and pyspark. To run simply clone the directory and run the cells in order.
-**clone:** git clone https://github.com/your-username/pyspark-mini-file.git
+**clone:** git clone [https://github.com/your-username/pyspark-mini-file.git](https://github.com/Majic2000/pyspark_crash_code)
 
 **Usage**
 It is just one file outlining -> [import, data set importing, inspection of df, null duplication handeling, advanced filtering, sql on dataframes, adding calc columns with conditions, saving a file, aggregations & Alias]
